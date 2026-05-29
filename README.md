@@ -5,7 +5,8 @@
   <p>
     <a href="mailto:jamex6722@gmail.com">📧 jamex6722@gmail.com</a> &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/jamesuche/">💼 LinkedIn</a> &nbsp;·&nbsp;
-    <a href="#">🌐 Portfolio</a>
+    <a href="#">🌐 Portfolio</a> &nbsp;·&nbsp;
+    <a href="https://github.com/Jamex6">🐙 GitHub</a>
   </p>
 </div>
 
