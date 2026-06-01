@@ -1,90 +1,69 @@
-<!-- Header -->
 <div align="center">
-  <h1>Hi, I'm James 👋</h1>
-  <p><strong>Junior Developer · UI/UX Designer · Based in Abuja, Nigeria</strong></p>
+  <h1>James Uche</h1>
+  <p><strong>Software Developer · UI/UX Designer · Remote-Ready</strong></p>
   <p>
-    <a href="mailto:jamex6722@gmail.com">📧 jamex6722@gmail.com</a> &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/jamesuche/">💼 LinkedIn</a> &nbsp;·&nbsp;
-    <a href="https://jamesuche.netlify.app/">🌐 Portfolio</a> &nbsp;·&nbsp;
-    <a href="https://github.com/Jamex6">🐙 GitHub</a>
+    <a href="mailto:jamex6722@gmail.com"><img src="https://img.shields.io/badge/Email-jamex6722%40gmail.com-0A66C2?style=flat&logo=gmail&logoColor=white"/></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/jamesuche/"><img src="https://img.shields.io/badge/LinkedIn-jamesuche-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+    &nbsp;
+    <a href="https://jamesuche.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-jamesuche.netlify.app-1A1A2E?style=flat&logo=netlify&logoColor=white"/></a>
   </p>
 </div>
 
 ---
 
-I'm a developer and UI/UX designer with a background in Psychology — which shapes how I think about every product I build. I care about the people who use software, not just the code that runs it.
+I build web applications that ship to real users — including platforms live across **federal government ministries in Nigeria**.
 
-Over the past 3+ years I've worked on government and enterprise platforms, led department onboarding, conducted user research, and shipped production web applications across the public and private sector in Nigeria.
+3+ years delivering full-stack PHP applications and UI/UX design for enterprise and public sector clients. My Psychology background shapes how I think about every product: users first, code second.
 
-- 🔭 Currently at **Digital Communications Konsult (DCK)** — building digital transformation tools for federal ministries
-- 🎨 I design in **Figma** and build with **PHP, HTML, CSS, JavaScript**
-- 🧠 Psychology grad who found a home in tech
-- 📍 Abuja, Nigeria
+Currently **open to remote full-time and contract roles** in web development or product design.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Live Projects
 
-### 🏛️ DokuFlow — FMHUD ERP & Content Management Platform
-> Workflow automation portal for a federal ministry · **PHP MVC · MySQL**
-
-Web-based ERP platform built to automate the workflow activities of the Federal Ministry of Housing and Urban Development. Led onboarding and training for multiple government departments and units.
-
-🔗 **Live:** [dxcloud.fmhud.gov.ng](https://dxcloud.fmhud.gov.ng/)
-
----
-
-### 🌹 The Rosita Apartments — Hotel Booking Web Platform
-> Customer-facing booking site + staff admin dashboard · **PHP · HTML · CSS · JavaScript**
-
-Fully responsive public site for a premium apartment brand in Owerri, featuring room listings, pricing, and booking flows — plus an admin dashboard for managing guests, reservations, and room inventory.
-
-🔗 **Live:** [the-rosita.com](https://the-rosita.com/)
-
----
-
-### 🤝 ECORAP — Edo State Cooperatives Registration App
-> Online cooperative member registration portal · **PHP MVC · MySQL**
-
-Member-facing and admin interfaces for cooperative registration. Managed database architecture and authored full onboarding documentation.
-
----
-
-### 🎓 EMIS — Presidential Amnesty Program Student Platform
-> Student education management system · **PHP MVC · MySQL**
-
-Student record management with session querying, approval memo workflows, real-time log updates, report generation, and database optimisations.
+| Project | Stack | Description |
+|---|---|---|
+| [**DokuFlow — FMHUD ERP**](https://dxcloud.fmhud.gov.ng/) | PHP MVC · MySQL | Enterprise content management platform for a federal ministry. Led multi-department government onboarding. |
+| [**The Rosita Apartments**](https://the-rosita.com/) | PHP · JS · CSS | Hotel booking site + staff admin dashboard. Room listings, reservations, guest management. |
+| **ECORAP** | PHP MVC · MySQL | Cooperative member registration portal — member-facing and admin interfaces. |
+| **EMIS — Presidential Amnesty Program** | PHP MVC · MySQL | Student records platform with approval workflows, real-time logging, and report generation. |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
-`PHP` `HTML5` `CSS3` `JavaScript` `MVC Architecture` `Bootstrap`
+**Backend & Fullstack**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MVC](https://img.shields.io/badge/MVC_Architecture-1A1A2E?style=flat)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 **Design & UX**
-`Figma` `Prototyping` `Interaction Design` `Usability Research` `Responsive Design`
 
-**Tools & Platforms**
-`MySQL` `Firebase` `Git` `XAMPP` `VS Code` `Google Workspace`
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
+**Tools**
 
-## 📜 Certifications
-
-| Certificate | Platform | Year |
-|---|---|---|
-| Motion Design with Figma UI/UX | Udemy | 2022 |
-| Complete PHP MVC Tutorial | Udemy | 2023 |
-| Web Development Bootcamp | Udemy | 2023 |
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📬 Get In Touch
+## 📌 About Me
 
-Open to full-time roles, contract work, and interesting collaborations.
-
-**Email:** jamex6722@gmail.com · **LinkedIn:** [linkedin.com/in/jamesuche](https://www.linkedin.com/in/jamesuche/)
+- 🔭 Currently building digital transformation tools for Nigerian federal agencies at **DCK**
+- 🧠 Psychology grad — I care about the humans who use the software, not just the code
+- 🌍 Based in Abuja, Nigeria · Available for **remote work worldwide**
+- 📬 Open to roles · Reach me at jamex6722@gmail.com
 
 ---
 
